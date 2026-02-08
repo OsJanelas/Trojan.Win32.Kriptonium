@@ -1,0 +1,15 @@
+ ___ ___  _____  _____  _____  _______  _____  _______  _____  ___  _____
+|   |   ||  _  ||_   _||  _  ||__   __|| ___ ||  ___  ||_   _|| | ||     |
+|      | | |_| |  | |  |   __|   | |   ||   ||| |   | |  | |  | | || | | |
+|       ||    _| _| |_ |  |      | |   ||___||| |   | | _| |_ | | || | | |
+|___|___||_|___||_____||__|      |_|   |_____||_|   |_||_____||___||_|_|_|
+
+
+Hello, this is our last malware with skidded MBR, all malwares we made haved a MBR made with a WobbyChip program. All credits of MBR of 1st and 2nd gen for WobbyChip, but in 3rd, Radonium have a Skidded and a Original MBR versions, and Kriptonium is the last with MBR made in this program.
+=================================================
+
+   SKIDDED MBR _________________________________
+              |                                 |
+              |        Vekna - Kriptonium       |
+              |_________________________________|
+=================================================
